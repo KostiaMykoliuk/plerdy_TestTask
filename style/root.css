@@ -1,0 +1,76 @@
+:root{
+	--white: #ffffff;
+	--orange: #ff4f00;
+	--orange-rgb: 255,79,0;
+	--gray: #919191;
+	--dark-gray: #3f403f;
+	--grey: #777777;
+}
+
+@font-face
+{
+    font-family: 'Porsche';
+
+    src: url('../fonts/SK_Porsche.woff') format('woff');
+}
+
+
+@font-face
+{
+    font-family: 'Gilroy';
+    font-weight: 300;
+
+    src: url('../fonts/Gilroy-Light.woff') format('woff');
+}
+
+@font-face
+{
+    font-family: 'Gilroy';
+    font-weight: 400;
+
+    src: url('../fonts/Gilroy-Regular.woff') format('woff');
+}
+
+@font-face
+{
+    font-family: 'Gilroy';
+    font-weight: 600;
+
+    src: url('../fonts/Gilroy-SemiBold.woff') format('woff');
+}
+
+@font-face
+{
+    font-family: 'Gilroy';
+    font-weight: 700;
+
+    src: url('../fonts/Gilroy-Bold.woff') format('woff');
+}
+
+.font-300
+{
+    font-weight: 300;
+}
+.font-400
+{
+    font-weight: 400;
+}
+.font-600
+{
+    font-weight: 600;
+}
+.font-700
+{
+    font-weight: 700;
+}
+
+.hide{
+	display: none;
+}
+.show{
+	display: block;
+}
+
+.overflow-auto{
+	overflow: auto;
+}

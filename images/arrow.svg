@@ -1,0 +1,20 @@
+<svg>
+	<symbol id="arrow" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<g>
+			<path d="M46.324,2.297 L23.797,24.824 L23.500,24.527 L23.203,24.824 L0.676,2.297 L2.797,0.176 L23.500,20.879 L44.203,0.176 L46.324,2.297 Z"/>
+		</g>
+	</symbol>
+
+	<symbol id="arrowLeft" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<g>
+			<path d="M61.000,11.000 L4.414,11.000 L11.314,17.899 L9.900,19.314 L0.686,10.100 L0.787,10.000 L0.686,9.900 L9.900,0.686 L11.314,2.100 L4.414,9.000 L61.000,9.000 L61.000,11.000 Z"/>
+		</g>
+	</symbol>
+
+	<symbol id="arrowRight" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<g>
+			<path fill-rule="evenodd"  d="M60.314,10.100 L51.100,19.314 L49.686,17.899 L56.586,11.000 L-0.000,11.000 L-0.000,9.000 L56.586,9.000 L49.686,2.100 L51.100,0.686 L60.314,9.900 L60.213,10.000 L60.314,10.100 Z"/>
+		</g>
+	</symbol>
+</svg>
+
