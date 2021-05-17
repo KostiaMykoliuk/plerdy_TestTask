@@ -140,7 +140,7 @@ body::-webkit-scrollbar-thumb
 	right: calc(50% - 160px);
 	width: 320px;
 	height: 0px;
-	overflow: clip;
+	overflow: hidden;
 	border-radius: 6px;
 	transition: height .5s ease-in-out;
 	background: url(../images/background_texture.png) var(--dark-gray);
